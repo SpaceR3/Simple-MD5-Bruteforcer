@@ -3,7 +3,7 @@ A really simple MD5 Bruteforcer. Made in c++
 
 
 ```
-My Discord: SpaceR#4641
+My Discord: Tewni#4641
 ```
 
 
